@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Female Daily Test</string>
+    <string name="no_network">Please check your connection and try again</string>
+    <string name="something_went_wrong">Something went wrong when processing your request</string>
+    <string name="text_btn_add_to_favorite">ADD TO FAV</string>
+    <string name="text_toolbar_library">Music Library</string>
+    <string name="text_toolbar_favorite">Favorite</string>
+</resources>
